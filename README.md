@@ -1,7 +1,7 @@
 <p align="center">
   <br><br>
   <samp>
-    Hey!! I'm Manikanta Sai Kumar :wave:
+    Hey!! I'm Manikanta :wave:
     <br><br>
     I am interested in Web :globe_with_meridians: developement!
   </samp>
